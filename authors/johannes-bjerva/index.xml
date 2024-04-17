@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Bjerva on CopeNLU</title>
+    <link>https://copenlu.github.io/authors/johannes-bjerva/</link>
+    <description>Recent content in Johannes Bjerva on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/authors/johannes-bjerva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inducing Language-Agnostic Multilingual Representations</title>
+      <link>https://copenlu.github.io/publication/2021_sem_zhao/</link>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_sem_zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Typological Blinding Impede Cross-Lingual Sharing?</title>
+      <link>https://copenlu.github.io/publication/2021_eacl_bjerva/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2021_eacl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SubjQA: A Dataset for Subjectivity and Review Comprehension</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_bjerva/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-Shot Cross-Lingual Transfer with Meta Learning</title>
+      <link>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_emnlp_nooralahzadeh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGTYP 2020 Shared Task: Prediction of Typological Features</title>
+      <link>https://copenlu.github.io/publication/2020_sigtyp_bjerva/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_sigtyp_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Evaluation for Question Answering with Transformers</title>
+      <link>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_blackboxnlp_muttenthaler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back to the Future -- Sequential Alignment of Text Representations</title>
+      <link>https://copenlu.github.io/publication/2020_aaai_bjerva_kouw/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2020_aaai_bjerva_kouw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive Auxiliary Task Self-Training for Neural Multi-Task Models</title>
+      <link>https://copenlu.github.io/publication/2019_deeplo_bjerva/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_deeplo_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Probabilistic Implications in Typological Knowledge Bases</title>
+      <link>https://copenlu.github.io/publication/2019_acl_bjerva/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_acl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Generative Model of Linguistic Typology</title>
+      <link>https://copenlu.github.io/publication/2019_naacl_bjerva/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_naacl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Language Representations Really Represent?</title>
+      <link>https://copenlu.github.io/publication/2019_cl_bjerva/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2019_cl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter sharing between dependency parsers for related languages</title>
+      <link>https://copenlu.github.io/publication/2018_emnlp_de-lhoneux/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_emnlp_de-lhoneux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Copenhagen at CoNLL--SIGMORPHON 2018: Multilingual Inflection in Context with Explicit Morphosyntactic Decoding</title>
+      <link>https://copenlu.github.io/publication/2018_sigmorphon_kementchedjhieva/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_sigmorphon_kementchedjhieva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character-level Supervision for Low-resource POS Tagging</title>
+      <link>https://copenlu.github.io/publication/2018_deeplo_kann/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_deeplo_kann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Phonology to Syntax: Unsupervised Linguistic Typology at Different Levels with Language Embeddings</title>
+      <link>https://copenlu.github.io/publication/2018_naacl_bjerva/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_naacl_bjerva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KU-MTL at SemEval-2018 Task 1: Multi-task Identification of Affect in Tweets</title>
+      <link>https://copenlu.github.io/publication/2018_naacl_nyegaard-signori/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_naacl_nyegaard-signori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking Typological Traits of Uralic Languages in Distributed Language Representations</title>
+      <link>https://copenlu.github.io/publication/2018_iwclul_bjerva/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/publication/2018_iwclul_bjerva/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

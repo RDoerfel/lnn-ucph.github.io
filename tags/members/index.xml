@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on CopeNLU</title>
+    <link>https://copenlu.github.io/tags/members/</link>
+    <description>Recent content in Members on CopeNLU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jan 2019 17:07:01 +0000</lastBuildDate>
+    
+	<atom:link href="https://copenlu.github.io/tags/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Isabelle Augenstein</title>
+      <link>https://copenlu.github.io/people/isabelle/</link>
+      <pubDate>Sun, 20 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/isabelle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pepa Atanasova</title>
+      <link>https://copenlu.github.io/people/pepa/</link>
+      <pubDate>Sat, 19 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/pepa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Arakelyan</title>
+      <link>https://copenlu.github.io/people/erik/</link>
+      <pubDate>Fri, 11 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/erik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadav Borenstein</title>
+      <link>https://copenlu.github.io/people/nadav/</link>
+      <pubDate>Tue, 08 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/nadav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arnav Arora</title>
+      <link>https://copenlu.github.io/people/arnav/</link>
+      <pubDate>Mon, 07 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/arnav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haeun Yu</title>
+      <link>https://copenlu.github.io/people/haeun/</link>
+      <pubDate>Thu, 03 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/haeun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingyi Sun</title>
+      <link>https://copenlu.github.io/people/jingyi/</link>
+      <pubDate>Wed, 02 Jan 2019 17:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/jingyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siddhesh Pawar</title>
+      <link>https://copenlu.github.io/people/siddhesh/</link>
+      <pubDate>Wed, 02 Jan 2019 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/siddhesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dustin Wright</title>
+      <link>https://copenlu.github.io/people/dustin/</link>
+      <pubDate>Tue, 01 Jan 2019 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/dustin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steffen Eger</title>
+      <link>https://copenlu.github.io/people/steffen/</link>
+      <pubDate>Mon, 31 Dec 2018 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/steffen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ran Zhang</title>
+      <link>https://copenlu.github.io/people/ran-zhang/</link>
+      <pubDate>Sun, 30 Dec 2018 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/ran-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Leitner</title>
+      <link>https://copenlu.github.io/people/christoph/</link>
+      <pubDate>Sat, 29 Dec 2018 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/christoph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greta Warren</title>
+      <link>https://copenlu.github.io/people/greta/</link>
+      <pubDate>Fri, 28 Dec 2018 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/greta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuzhou Yuan</title>
+      <link>https://copenlu.github.io/people/shuzhou/</link>
+      <pubDate>Fri, 28 Dec 2018 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/shuzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lovisa Hagström</title>
+      <link>https://copenlu.github.io/people/lovisa/</link>
+      <pubDate>Wed, 26 Dec 2018 16:07:01 +0000</pubDate>
+      
+      <guid>https://copenlu.github.io/people/lovisa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
