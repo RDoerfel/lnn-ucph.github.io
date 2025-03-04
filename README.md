@@ -1,19 +1,34 @@
 # The Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH
 
-This is the website for the LNN lab at UCPH. 
+This is the official website for the Lab for Neuroimaging and Neuroinformatics (LNN) at the University of Copenhagen (UCPH). Below are instructions for configuring and updating the site.
 
 ## Configuration
 
-Most of the configuration is done in /config/_default. The landing page is defined in hugo.yaml, and the navigation bar is defined in menu.yaml. To link a homepage widget, specify the URL as a hash `#` followed by the filename of the desired widget in your `content/` folder. The weight parameter defines the order that the links will appear in. 
+Most of the configuration is managed in the [`config/_default`](config/_default) directory.
 
-## How to add content
+- The **baseURL and title** are defined in `hugo.yaml`.
+- The **navigation bar** is specified in `menu.yaml`.
+- The **weight parameter** determines the order in which links appear in the navigation bar.
 
-### New data on the main page
-The content of the main page is placed in content/_index.md, and it is organized in blocks. Refer to hugo documentations for further details. 
+For more details on configuring Hugo, refer to the [Hugo documentation](https://gohugo.io/documentation/).
 
-### Authors
-Members of the lab are added in content/authors. Each member gets their own directory that contains the _index.md file, and an avatar.jpg. 
+## How to Add Content
 
-### Publications
-Luckily, Github Actions takes care of new publications. All you need to do is to add the bibtex entry of your latest publication to the publications.bib and push it as a new Pull Request. Github Acrions will take care automatically, and create a directory in /content/publication.
+### Updating the Main Page
+The main page content is stored in [`content/_index.md`](content/_index.md) and is structured in blocks. You can modify this file to update the homepage text or layout.
+
+For advanced customization, refer to the [Hugo documentation on content organization](https://gohugo.io/content-management/organization/).
+
+### Adding Lab Members
+Lab members are listed in the [`content/authors`](content/authors) directory. Each member has their own folder containing:
+- An `_index.md` file with their profile details.
+- An `avatar.jpg` for their profile picture.
+
+To add a new member, create a new subdirectory with their name under `content/authors/` and include these two files.
+
+### Managing Publications
+New publications are automatically processed using **GitHub Actions**. To add a new publication:
+1. Add the BibTeX entry for your latest publication to `publications.bib`.
+2. Submit a **Pull Request** with the updated `publications.bib` file.
+3. Once merged, GitHub Actions will generate a new directory under [`content/publication`](content/publication).
 
