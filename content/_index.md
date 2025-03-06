@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2025-05-03
-type: page
+type: landing
 
 sections:
   - block: hero
