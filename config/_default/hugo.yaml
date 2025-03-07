@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lab for Neuroimaging and Neuroinformatics (LNN) @ UCPH # Website name
-baseURL: 'https://lnn-ucph.github.io/' # Website URL
+baseURL: 'https://LNN-UCPH.github.io/lnn-ucph.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
