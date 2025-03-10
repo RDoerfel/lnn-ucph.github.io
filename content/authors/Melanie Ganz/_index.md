@@ -13,7 +13,7 @@ superuser: true
 position: 1
 
 # Role/position
-role: Associate Professor, Group Leader
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers and staff
+  - Principal Investigator
 ---
 ### Website:
 - https://sites.google.com/view/melanieganz/home 

@@ -1,13 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2025-05-03
+date: 2022-10-24
 type: landing
-
-build:
-  list: always
-  publishResources: true
-  render: always
 
 sections:
   - block: hero
@@ -32,13 +27,14 @@ sections:
   - block: people
     id: people
     content:
-      title:
+      title: Meet the Group
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Group leader
-          - Researchers and staff
-          - Colaborators 
+          - Principal Investigator
+          - Researchers
+          - Research Support
+          - Colaborators
           - Alumni
       sort_by: Params.position
       sort_ascending: true
@@ -51,7 +47,7 @@ sections:
     id: publications
     view: citation
     content:
-      title: Selected publications 
+      title: Publications 
       subtitle: ''
       text:
       filters:
